@@ -3,12 +3,8 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Strongly motivated to continuous development, not afraid of challenges, learning about the latest technologies and best practices to provide to the end user the best possible software that will assist him in his daily work.
 
-### More Information
+### Contact me!
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[smiaylyjoe@gmail.com](mailto:smialyjoe@gmail.com)
