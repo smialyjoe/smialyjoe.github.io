@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First steps are always hardest"
-published: false
+published: true
 ---
 
 As you can see it's been a long time between posts. There were a lot going on, but my main excuse was fear of publication. That I don't have time to proper investigate some topic, that will be valuable enough to show it to the world. Also english is not my native language and that was also my worry. But time passed and I realized, that I've wasted time, because even if I had started poorly in every aspect, till today I will probably get over with this premature problems. But I didn't do this. 
