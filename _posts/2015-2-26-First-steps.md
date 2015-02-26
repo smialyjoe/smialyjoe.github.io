@@ -10,3 +10,4 @@ So today I'm trying again. There are some changes in my live that should motivat
 
 My goal is to put at least one blog post every week. At the beginning I presume that posts will be something like my notes from my everyday battlefield. Solutions to problems that I solve everyday. Also I want to put here something like library to valuable IMHO content that I read in web. For the .NET world the best site with this idea is [The morning brew](http://blog.cwa.me.uk/). The well brewed set of link serves to you at every morning (at least at England).
 
+So, wish me luck and see you soon!
